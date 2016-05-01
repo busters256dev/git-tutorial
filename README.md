@@ -1,2 +1,3 @@
-#GIT TUTORIAL
--feature-A
+#Gitチュートリアル
+ - feature-A
+ - fix-B
